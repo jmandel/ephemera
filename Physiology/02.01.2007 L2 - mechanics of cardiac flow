@@ -1,0 +1,76 @@
+Mechanics of Cardiac Flow
+02.01.2006
+
+MONITORING BLOOD PRESSURE
+Electronics replace mercury manometers, measuring pressure in real
+time.  Generally via Swan-Ganz catheter entering right atrium.
+
+Monitor is connected to a catheter covered with heparinized saline (to
+prevent clotting), which has lumen(s) to measure pressure, O2, etc.
+Balloon on tip of catheter has a channel connected to a 1 ml syringe,
+which can inflate or deflate it.  Inflated balloon will float like a
+little boat along the direction of blood flow.
+
+Inserted into superior vena cava, or an arm vein, and passed therefrom
+to the right atrium. Balloon can be temporarily inflated to float
+across tricuspid valve to right ventricle, so RV changes can be
+measured.  Or balloon can be inflated again to enter pulmonary
+arteries to measure there.  It will lodge in a pulmonary artery,
+getting stuck in a "wedge position."  (Lots of other pulmonary
+arteries are still working to provide blood flow through lungs.  But
+the catheter tip can measure "pulmonary wedge pressure," which predicts
+left atrial pressure.  So we can measure 3/4 chambers of the heart as
+well as vena cava.  Impossible to get a catheter into left atrium via
+any other method.
+
+Left ventricular catheterization is also done, generally via femoral
+artery.  This is called an "LV catheter," and is less flexible and
+balloon-less, passing against direction of blood flow.  Wires
+embedded, attached to a joystick than bends the tip to maneuver around
+corners, up around the aortic arch, and finally across aortic valve
+into left ventricle.
+-----
+
+TRACING HEART RHYTHMS OVER TIME: WIGGERS DIAGRAM traces pressures
+through the various parts of the heart over time.  We'll be able to
+reproduce this by the end of the cardiac unit.  EKG signals precede
+the pressure changes that occur, because electrical signals control
+ventricles.
+
+LEFT VENTRICLE: begins with a small increase in pressure resulting
+from atrial contraction.  Atrial contraction is responsible for only a
+small portion of ventricular filling.  Ventricles depolarize,
+beginning to contract, and this increases LV pressure.  When pLV >
+pLA, mitral valve closes (the S1 or "lub" sound of the "lubdub"
+heartbeat).  Contraction continues, increasing pressure all the way to
+110 mm Hg, and then ventricle begins relaxing; pressure drops off.
+
+AORTIC PRESSURE, meanwhile, is gradually falling off during
+diastoly, even though it's somewhat high because it hasn't dissipated
+from the last beat.  When LV pressure exceeds aorta pressure on the
+upswing, the aortic valve opens and volume begins moving to aorta.  S2
+or "dub" sound occurs as the aortic valve closes, as LV begins to
+relax.
+
+The "A wave" in the LA (and RA, which mirrors it) occurs during
+diastoly.  then during systoly, a lot of strain in the LV bulges the
+mitral valve a bit back into the atrium, causing the "C wave," a
+slight increase of LA pressure which resolves quickly.  Then, during
+LV contraction, LA pressure slowly increases because blood is
+returning steadily from lungs to LV.  Eventually as the LA pressure
+increases passively and the LV pressure decreases in relaxation, the
+mitral valve pops back open (making the S3 sound, which we won't care
+about for this course).  Most ventricular filling is passive, due to
+venous return.  A small bit is due to atrial contraction...
+
+Peak pressure in the right side of the heart mirrors the left side,
+but scaled down by 25%.  But volumes are the same, timing is the same.
+
+A split in S2 can be caused by a delay in closure of pulmonic valve.
+Normally it closes a bit later than aortic valve --- but we won't
+worry about it in this course.
+
+End diastolic volume:	ventricle is full around 120 ml
+End systolic volume:	around 50 ml
+Ejection fraction:	fraction of end diastolc volume 
+			ejected per beat around 50%
